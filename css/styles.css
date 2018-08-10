@@ -1,3 +1,6 @@
 .btn btn-primary btn-lg {
   display: block;
 }
+#track {
+  display: none;
+}
